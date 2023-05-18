@@ -1,0 +1,52 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url(banner.jpg);
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+}
+
+main {
+  min-height: 600px;
+  width: 450px;
+  background-color: white;
+  text-align: left;
+  margin: 100px 560px;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.text_box {
+  border-radius: 40px;
+  height: 30px;
+  width: 95%;
+  margin: 3px;
+  padding: 5px;
+  background-color: #f4f4f4;
+  border: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+#register {
+  height: 40px;
+  width: 100%;
+  margin-bottom: 5px;
+  border-radius: 0px;
+  background-color: rgba(36, 35, 35, 0.9);
+  border: none;
+  color: #f4f4f4;
+}
+
+hr {
+  margin: 10px 0px;
+  border: 1px solid #f4f4f4;
+}
