@@ -1,0 +1,8 @@
+.text-muted,
+.text-left {
+  font-size: 12px;
+}
+
+button {
+  background-color: rgba(176, 211, 222, 0.994);
+}
