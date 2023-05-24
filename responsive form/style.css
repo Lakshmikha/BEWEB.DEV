@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .text-muted,
 .text-left {
   font-size: 12px;
@@ -6,3 +7,13 @@
 button {
   background-color: rgba(176, 211, 222, 0.994);
 }
+=======
+.text-muted,
+.text-left {
+  font-size: 12px;
+}
+
+button {
+  background-color: rgba(176, 211, 222, 0.994);
+}
+>>>>>>> 58c551627af1797e29833d7e10eab0d302e548fa
