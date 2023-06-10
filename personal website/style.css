@@ -1,0 +1,92 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+  color: white;
+}
+header {
+  font-family: "Roboto Mono", monospace;
+}
+h1 {
+  font-size: x-large;
+}
+
+nav {
+  color: white;
+}
+
+a {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.my-photo {
+  box-shadow: 25px 25px 1px white;
+}
+
+.my-name,
+h3 {
+  font-family: "Maven Pro", sans-serif;
+  font-weight: 400;
+}
+
+#summary {
+  display: flex;
+  flex-direction: row;
+}
+
+#aboutme {
+  margin-right: 80px;
+  padding-right: 60px;
+  font-family: "Roboto Mono", monospace;
+  font-size: 24px;
+}
+
+h3 {
+  font-family: "Maven Pro", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+}
+.education,
+.skills {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: black;
+}
+
+.skills > .card-text {
+  font-size: 28px;
+}
+
+.card {
+  background-color: black;
+  color: white;
+}
+
+.socials,
+.contact {
+  float: left;
+  margin: 150px;
+}
+
+.contact {
+  margin-left: 600px;
+  margin-top: 100px;
+}
+button {
+  background-color: white;
+  color: black;
+}
+
+.form-control {
+  border: none !important;
+  background-color: rgba(97, 97, 97, 0.262) !important;
+  color: white !important;
+  border-radius: 0px !important;
+  outline: none !important;
+}
+
+a:hover {
+  text-shadow: 1px 1px 8px #ffffff;
+}
